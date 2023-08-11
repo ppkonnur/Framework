@@ -1,0 +1,23 @@
+{
+  "test1": {
+    "fromSearch" : "Pun",
+    "fromcity": "Pune",
+    "toSearch": "Bang",
+    "tocity": "Bangkok",
+    "date" : "Aug 26 2023"
+  },
+  "test2":{
+    "fromSearch" : "New",
+    "fromcity": "New Dehli",
+    "toSearch": "Bang",
+    "tocity": "Bangkok",
+    "date" : "Aug 20 2023"
+  },
+  "test3":{
+     "fromSearch" : "Mum",
+    "fromcity": "Mumbai",
+    "toSearch": "Bang",
+    "tocity": "Bangkok",
+    "date" : "Aug 15 2023"
+  }
+}
